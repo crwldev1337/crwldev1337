@@ -11,6 +11,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        Don't Know which language to learn.
+        Currently Learning Rust
     </p>
 </samp>
