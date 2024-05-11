@@ -11,6 +11,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        Currently Learning Rust
+        XD
     </p>
 </samp>
