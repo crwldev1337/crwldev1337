@@ -11,6 +11,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        XD
+        rm -rf /*
     </p>
 </samp>
