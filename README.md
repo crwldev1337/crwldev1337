@@ -11,6 +11,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        rm -rf /*
+        rn using Fedora 40
     </p>
 </samp>
