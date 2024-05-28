@@ -11,6 +11,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        rn using Fedora 40
+        Learning C
     </p>
 </samp>
