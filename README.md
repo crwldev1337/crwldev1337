@@ -14,7 +14,3 @@
         Learning C
     </p>
 </samp>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x077-thn&layout=compact&theme=github_dark&langs_count=8&hide=CMake,Makefile,Scss" >
-</a>
-
