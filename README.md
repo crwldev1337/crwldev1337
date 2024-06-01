@@ -14,4 +14,4 @@
         Learning C
     </p>
 </samp>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x077-thm&size_weight=0.5&count_weight=0.5)
+![0x077-thm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x077-thm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
