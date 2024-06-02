@@ -14,6 +14,7 @@
         Learning C
     </p>
 </samp>
+<br></br>
 <p align="left">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
