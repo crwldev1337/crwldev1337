@@ -5,15 +5,6 @@
 </h3>
 <br>
 </details>
-<br>
-
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        Learning C
-    </p>
-</samp>
 
 # Distros I use: 
 
