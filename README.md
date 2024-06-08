@@ -5,6 +5,7 @@
 </h3>
 <br>
 </details>
+<br>
 
 # Distros I use: 
 
