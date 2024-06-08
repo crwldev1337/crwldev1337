@@ -1,11 +1,3 @@
-<h3 align="center">
-        <samp>&gt; Hey Guys!, I am
-                <b><a target="_blank" href="https://tryhackme.com/p/r0ck450">r0ck450</a></b>
-        </samp>
-</h3>
-<br>
-</details>
-
 # Distros I use: 
 
 <p align="left">
