@@ -6,7 +6,6 @@
 <br>
 </details>
 <br>
-
 # Distros I use: 
 
 <p align="left">
