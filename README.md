@@ -1,5 +1,7 @@
 ### <p align="center">Linux User | Developer</p>
 
+![r0ck450's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0ck450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 # Distros I use: 
 
 <p align="left">
