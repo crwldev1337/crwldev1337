@@ -1,7 +1,5 @@
 # Currently Learning Rust.
 
-<br>
-
 # Distros I use: 
 
 <p align="left">
