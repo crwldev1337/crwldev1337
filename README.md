@@ -1,4 +1,4 @@
-### <p align="center">Arch User | Developer"</p>
+### <p align="center">Arch User | Developer</p>
 
 # Distros I use: 
 
