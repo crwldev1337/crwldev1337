@@ -1,6 +1,6 @@
 ### <p align="center">Linux User | Developer</p>
 
-![r0ck450's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0ck450&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![r0ck450's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fxward&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Distros I use: 
 
