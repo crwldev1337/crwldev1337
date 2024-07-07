@@ -1,4 +1,4 @@
-### <p align="center">Linux User | Developer</p>
+### <p align="center"Python Developer | Linux User | Interested in Cybersec</p>
 
 ![r0ck450's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fxward&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
