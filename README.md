@@ -1,6 +1,6 @@
 # <p align="center">Python Developer | Linux User | Interested in Cybersec</p>
 
-![sxploit's Stats](https://github-readme-stats.vercel.app/api?username=sxploit&theme=gruvbox&show_icons=true&hide_border=true&count_private=false) ![sxploit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxploit&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+![sxploit's Stats](https://github-readme-stats.vercel.app/api?username=crwldev1337&theme=gruvbox&show_icons=true&hide_border=true&count_private=false) ![sxploit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crwldev1337&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 # Distros I use: 
 
